@@ -24,7 +24,7 @@ This Power BI dashboard analyzes air quality data across major cities and provid
 - Average AQI: 238
 
 ## 📷 Dashboard Preview
-Screenshot 2026-06-18 152127.png
+![Dashboard](./Screenshot%202026-06-18%20152127.png)
 
 ## 👩‍💻 Author
 Vidhyasri
